@@ -4,6 +4,5 @@
 
 🔥 Autodidacta de pequeño - Continúo estudiando - Siempre aprender! 🔥
 
-➡️ LinkedIn -> https://www.linkedin.com/in/javier-schettini-6750a6245
-
-[![@j4v13r's Holopin board](https://holopin.me/j4v13r)](https://holopin.io/@j4v13r)
+➡️ LinkedIn -> https://www.linkedin.com/in/javier-schettini
+➡️ Portafolio -> https://portfolio-frontend-e8ef2.web.app/portfolio
