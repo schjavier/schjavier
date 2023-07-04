@@ -9,8 +9,8 @@ Bio
 Nacido en el conurbano de Buenos Aires, desde pequeño me atrajo la tecnología y la programación,
 mis primeros pasos fueron en la computadora de mi padre, haciendo paginas web sencillas.
 Luego los caminos me llevaron por otros rumbos de crecimiento personal, y aprendizajes diversos.
-En 2015 volvi a retomar con ganas el aprender a programar, me inscribí en la universidad de Rosario, por motivos personales abandone la carrera. 
-En 2022 comencé a estudiar nuevamente con ganas de poder dedicarme al desarrollo.
+En 2015 volvi a retomar con ganas, el aprender a programar, me inscribí en la universidad de Rosario, por motivos personales abandone la carrera. 
+En 2022 comencé a estudiar nuevamente con la idea de poder dedicarme al desarrollo.
 
 Habilidades y Herramientas
 
