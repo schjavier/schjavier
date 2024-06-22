@@ -2,7 +2,7 @@
 
 💻 En el verás los proyectos en los que trabaje! 
 
-🔥 Autodidacta de pequeño - Continúo estudiando - Siempre aprender! 🔥
+🔥 Autodidacta de pequeño - Continúo estudiando - lifelong learner! 🔥
 
 Bio 
 
