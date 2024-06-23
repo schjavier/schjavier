@@ -1,8 +1,8 @@
 👋 Bienvenidos a mi perfil de GitHub.
 
-💻 En el verás los proyectos en los que trabaje! 
+💻 En el verás los proyectos en los que trabajé... y en los que estoy trabajando actualmente. 
 
-🔥 Autodidacta de pequeño - Continúo estudiando - lifelong learner! 🔥
+🔥 Autodidacta de pequeño - Lifelong learner! 🔥
 
 Bio 
 
