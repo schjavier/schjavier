@@ -16,7 +16,7 @@ Actualmente (2024) estoy cursando el primer año de la carrera de Técnico Unive
 
 Habilidades y Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,vscode,git,java,spring,postman,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,ts,html,css,angular,vscode,postman,mysql)](https://skillicons.dev)
 
 ➡️ Portafolio -> https://portfolio-frontend-e8ef2.web.app/portfolio
 ➡️ LinkedIn -> https://www.linkedin.com/in/javier-schettini
