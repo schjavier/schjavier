@@ -12,6 +12,8 @@ Luego los caminos me llevaron por otros rumbos de crecimiento personal, y aprend
 En 2015 volvi a retomar con ganas, el aprender a programar, me inscribí en la universidad de Rosario, por motivos personales abandone la carrera. 
 En 2022 comencé a estudiar nuevamente con la idea de poder dedicarme al desarrollo.
 
+Actualmente (2024) estoy cursando el primer año de la carrera de Técnico Universitario en Programación en la UTN regional Mar Del Plata!
+
 Habilidades y Herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,vscode,git,java,spring,postman,mysql)](https://skillicons.dev)
