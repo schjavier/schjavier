@@ -17,7 +17,7 @@ Estoy especializado en el ecosistema **Java/Spring Boot** con disciplina en la *
 
 ---
 
-### Proyectos Destacados (Prueba de Ejecución)
+### Proyectos Destacados
 
 > *Mis repositorios demuestran mi capacidad para llevar un producto de la idea a la producción.*
 
