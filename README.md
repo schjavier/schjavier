@@ -1,25 +1,37 @@
-👋 Wellcome to my GitHub profile. 
+# Javier Schettini | Java & Spring Boot Full Stack Developer
 
-I’m a person characterized by a constant desire to learn new skills and new ways of doing things. 
-I also possess strong listening abilities, adaptability, and empathy.
+**Full Stack Developer** con experiencia práctica en el ciclo de vida completo del software. Mi enfoque está en la **Arquitectura Limpia** (Clean Architecture) y la **Mantenibilidad del Código**, esenciales para construir APIs RESTful robustas y sistemas escalables.
 
-My artistic background provided me with the tools to work in teams, collaborate with others to achieve a common goal, such as a show production. 
-It also taught me how to effectively communicate and express my ideas.
+Estoy especializado en el ecosistema **Java/Spring Boot** con disciplina en la **Integridad de los datos** y la seguridad (Spring Security).
 
-Regarding IT, I am familiar with the full software development lifecycle, from planning to development and production deployment.
-I have worked on projects in university, bootcamps, and on my own, which involved all stages of development. 
-I’m capable of estimating technical requirements for a system and designing databases through diagrams and translating them into SQL code.
+---
 
-When it comes to development, I focus on writing clean, maintainable, and scalable code while following best practices. 
-Above all, I prioritize making the code understandable for others.
-I have deployed Java applications in cloud environments like Oracle Cloud Infrastructure and Render.
+### Stack y Competencias Clave
 
-I am constantly seeking new challenges that allow me to keep learning and growing professionally. 
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend & Core** | Java (OOP, Clean Code), Spring Boot (Security, Data JPA), APIs REST. |
+| **Frontend** | Angular, Typescript, HTML, CSS. |
+| **Data** | Diseño/Modelado Relacional (UML/Diagramas), SQL, MySQL. |
+| **DevOps & Cloud** | Docker, Jenkins (CI/CD), Git/GitHub, OCI, Render. |
 
-I enjoy tackling complex problems and working in teams to create efficient and sustainable solutions.
+---
 
-Skills and Tools
+### Proyectos Destacados (Prueba de Ejecución)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,ts,html,css,angular,postman,mysql)](https://skillicons.dev)
+> *Mis repositorios demuestran mi capacidad para llevar un producto de la idea a la producción.*
 
-➡️ LinkedIn -> https://www.linkedin.com/in/javier-schettini
+| Proyecto | Descripción | Tecnologías Clave |
+| :--- | :--- | :--- |
+| **Brotes** | Sistema de **Gestión de Pedidos** (End-to-End). Reduce el tiempo de procesamiento en **30%** y garantiza la integridad de los datos. | Spring Boot, MySQL, Angular. |
+| **EmailSender** | Servicio de **Envio de emails a travez de formularios web** basado en Spring Boot. Enfocado en la **escalabilidad** del envío de correos. | Spring Boot, OCI |
+
+---
+
+### 🌐 Conectemos
+
+Si busca talento **Full Stack de alto potencial** con disciplina arquitectónica:
+
+* **LinkedIn:** https://www.linkedin.com/in/javier-schettini
+* **Email:** schjavier@gmail.com
+* **Rol Objetivo:** Desarrollador Java/Spring Full Stack (Jr./Semi-Sr.)
