@@ -30,8 +30,5 @@ Estoy especializado en el ecosistema **Java/Spring Boot** con disciplina en la *
 
 ### 🌐 Conectemos
 
-Si busca talento **Full Stack de alto potencial** con disciplina arquitectónica:
-
 * **LinkedIn:** https://www.linkedin.com/in/javier-schettini
 * **Email:** schjavier@gmail.com
-* **Rol Objetivo:** Desarrollador Java/Spring Full Stack (Jr./Semi-Sr.)
