@@ -2,7 +2,7 @@
 
 **Full Stack Developer** con experiencia práctica en el ciclo de vida completo del software. Mi enfoque está en la **Arquitectura Limpia** (Clean Architecture) y la **Mantenibilidad del Código**, esenciales para construir APIs RESTful robustas y sistemas escalables.
 
-Estoy especializado en el ecosistema **Java/Spring Boot** con disciplina en la **Integridad de los datos** y la seguridad (Spring Security).
+Estoy especializado en el ecosistema **Java/Spring Boot** enfocado en la **Integridad de los datos** y la seguridad (Spring Security).
 
 ---
 
@@ -13,7 +13,7 @@ Estoy especializado en el ecosistema **Java/Spring Boot** con disciplina en la *
 | **Backend & Core** | Java (OOP, Clean Code), Spring Boot (Security, Data JPA), APIs REST. |
 | **Frontend** | Angular, Typescript, HTML, CSS. |
 | **Data** | Diseño/Modelado Relacional (UML/Diagramas), SQL, MySQL. |
-| **DevOps & Cloud** | Docker, Jenkins (CI/CD), Git/GitHub, OCI, Render. |
+| **DevOps & Cloud** | Docker, Jenkins (CI/CD), Git/GitHub, OCI. |
 
 ---
 
