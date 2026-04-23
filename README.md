@@ -1,34 +1,48 @@
-# Javier Schettini | Java & Spring Boot Full Stack Developer
+# Hi there, I'm Javier Schettini! 👋
 
-**Full Stack Developer** con experiencia práctica en el ciclo de vida completo del software. Mi enfoque está en la **Arquitectura Limpia** (Clean Architecture) y la **Mantenibilidad del Código**, esenciales para construir APIs RESTful robustas y sistemas escalables.
+### Java & Spring Boot Full Stack Developer | Engineering-First Mindset
 
-Estoy especializado en el ecosistema **Java/Spring Boot** enfocado en la **Integridad de los datos** y la seguridad (Spring Security).
+I am a **Full Stack Developer** with a passion for building robust, scalable software. My philosophy centers on **Clean Architecture**, **SOLID principles**, and **Maintainability**. I don't just write code; I design systems that solve real-world problems with data integrity and security at the core.
 
 ---
 
-### Stack y Competencias Clave
+### 🚀 Technical Expertise
 
-| Categoría | Tecnologías |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Backend & Core** | Java (OOP, Clean Code), Spring Boot (Security, Data JPA), APIs REST. |
-| **Frontend** | Angular, Typescript, HTML, CSS. |
-| **Data** | Diseño/Modelado Relacional (UML/Diagramas), SQL, MySQL. |
-| **DevOps & Cloud** | Docker, Jenkins (CI/CD), Git/GitHub, OCI. |
+| **Backend** | **Java**, Spring Boot (Security, Data JPA, MVC), Hibernate, RESTful APIs. |
+| **Frontend** | **Angular**, TypeScript, RxJS, Signals, Modern CSS. |
+| **Data & Architecture** | Relational Design (UML), **SQL**, MySQL, Clean Architecture, Flyway. |
+| **DevOps & Infrastructure** | **Docker**, Jenkins (CI/CD), Git, OCI, **Fedora Workstation**. |
 
 ---
 
-### Proyectos Destacados
+### 🛠️ Featured Projects
 
-> *Mis repositorios demuestran mi capacidad para llevar un producto de la idea a la producción.*
+> *Repositories focused on moving ideas from conceptual design to production-ready deployments.*
 
-| Proyecto | Descripción | Tecnologías Clave |
-| :--- | :--- | :--- |
-| **Brotes** | Sistema de **Gestión de Pedidos** (End-to-End). Reduce el tiempo de procesamiento en **30%** y garantiza la integridad de los datos. | Spring Boot, MySQL, Angular. |
-| **EmailSender** | Servicio de **Envio de emails a travez de formularios web** basado en Spring Boot. Enfocado en la **escalabilidad** del envío de correos. | Spring Boot, OCI |
+#### [Brotes](https://github.com/schjavier/BrotesApi) | Order Management System (End-to-End)
+* **The Problem:** Inefficient order tracking and delivery scheduling for small businesses.
+* **The Solution:** Built a full-stack system that **reduced processing time by 30%** while ensuring 100% data consistency through relational normalization and transactional logic.
+* **Stack:** Spring Boot, MySQL, Angular.
+
+#### [EmailSender](https://github.com/schjavier/emailSender) | Scalable Email Service
+* **Focus:** High-availability backend service for web form integration.
+* **Highlights:** Implemented a robust delivery pipeline deployed on **Oracle Cloud Infrastructure (OCI)** using Docker containers.
+* **Stack:** Spring Boot, OCI, Docker.
 
 ---
 
-### 🌐 Conectemos
+### 🧠 Beyond Coding
 
-* **LinkedIn:** https://www.linkedin.com/in/javier-schettini
+* **Current Focus:** Finalizing my technical degree integration project at **UTN Mar del Plata**, involving a major database refactor for sales and purchase domains.
+* **Philosophy:** Human-readable code over "clever" code. I believe documentation (ERDs/UML) is as important as the code itself.
+* **OS:** Native **Fedora Linux** user. I thrive in terminal environments and automated workflows.
+
+---
+
+### 📫 Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/javier-schettini](https://www.linkedin.com/in/javier-schettini)
 * **Email:** schjavier@gmail.com
+* **Location:** Mar del Plata, Argentina (Remote Friendly 🌎)
