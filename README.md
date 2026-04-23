@@ -28,7 +28,7 @@ I am a **Full Stack Developer** with a passion for building robust, scalable sof
 
 #### [EmailSender](https://github.com/schjavier/emailSender) | Scalable Email Service
 * **Focus:** High-availability backend service for web form integration.
-* **Highlights:** Implemented a robust delivery pipeline deployed on **Oracle Cloud Infrastructure (OCI)** using Docker containers.
+* **Highlights:** Implemented a robust delivery pipeline deployed on a VPS using Docker containers.
 * **Stack:** Spring Boot, OCI, Docker.
 
 ---
